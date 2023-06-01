@@ -1,16 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: A propos de l'entreprise
+subtitle: TeVahi
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+MTeVahi est entreprise dans la géomatique. Elle propose des solutions pour vos projets autour de la donnée géographique. C'est pourquoi elle propose des prestations de cartographie statique ou dynamique. Elle propose également de mettre en place une chaine de traitement de vos données géographique. Enfin, elle propose de mettre en place une plateforme de visualisation et d'edition des données géographique qui intègre votre système d'information.
